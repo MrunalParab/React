@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mrunal",
+      "email": "mrunal@gmail.com",
+      "address": "Mumbai"
+    },
+    {
+      "id": "2",
+      "name": "Siddhi",
+      "email": "sid@gmail.com",
+      "address": "Bhandup"
+    },
+    {
+      "id": "3",
+      "name": "Bhartesh",
+      "email": "bhartesh@gmail.com",
+      "address": "Kolhapur"
+    },
+    {
+      "id": "4",
+      "name": "Siddharth",
+      "email": "sid@gmail.com",
+      "address": "Kalyan"
+    },
+    {
+      "id": "5",
+      "name": "Yash",
+      "email": "yp@gmail.com",
+      "address": "Mumbai"
+    },
+    {
+      "id": "6",
+      "name": "Pratibha",
+      "email": "p@gmail.com",
+      "address": "Mumbai"
+    },
+    {
+      "id": "7",
+      "name": "John",
+      "email": "john@yahoo.com",
+      "address": "India"
+    },
+    {
+      "id": "8",
+      "name": "Mansi",
+      "email": "mp@gmail.com",
+      "address": "Thane"
+    },
+    {
+      "id": "9",
+      "name": "Komal",
+      "email": "kd@gmail.com",
+      "address": "Thane"
+    },
+    {
+      "id": "10",
+      "name": "Jui",
+      "email": "jt@gmail.com",
+      "address": "Thane"
+    }
+  ]
+}
