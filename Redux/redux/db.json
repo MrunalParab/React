@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mrunal",
+      "email": "mrunal@gmail.com",
+      "address": "Mumbai",
+      "contact": "9930697398"
+    },
+    {
+      "id": "2",
+      "name": "Siddhi",
+      "email": "siddhi@gmail.com",
+      "address": "Bhandup",
+      "contact": "9967230849"
+    },
+    {
+      "id": "3",
+      "name": "Yash",
+      "email": "yp@gmail.com",
+      "address": "Mumbai",
+      "contact": "9967345949"
+    },
+    {
+      "id": "4",
+      "name": "Siddharth",
+      "email": "sr@gmail.com",
+      "address": "Kalyan",
+      "contact": "9878945609"
+    },
+    {
+      "id": "5",
+      "name": "Bhartesh",
+      "email": "bhartesh@gmail.com",
+      "address": "Kolhapur",
+      "contact": "8803561893"
+    },
+    {
+      "id": "6",
+      "name": "Glenn",
+      "email": "glenn@gmail.com",
+      "address": "Vasai",
+      "contact": "7890451234"
+    }
+  ]
+}
